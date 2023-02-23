@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Array</string>
+    <string name="selected_language">Serbian</string>
+    <string name="languages">Cao</string>
+    <string name="change_title">Promeni naslov</string>
+    <string name="enable_dark_mode">Omoguci mracni mod</string>
+    <string name="apply_settings">Primeni podesavanja</string>
+    <string name="english">Engleski</string>
+    <string name="serbian">Srpski</string>
+    <string name="spanish">Spanski</string>
+    <string name="insert_array">Unesi niz</string>
+    <string name="sort"></string>
+    <string name="swich"></string>
+    <string name="hyperlink">Open <a href="https://www.google.com">Get help portal</a></string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

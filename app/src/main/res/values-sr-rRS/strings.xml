@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Array</string>
+    <string name="selected_language">Serbian</string>
+    <string name="languages">Cao</string>
+    <string name="change_title">Promeni naslov</string>
+    <string name="enable_dark_mode">Omoguci mracni mod</string>
+    <string name="apply_settings">Primeni podesavanja</string>
+    <string name="english">Engleski</string>
+    <string name="serbian">Srpski</string>
+    <string name="spanish">Spanski</string>
+    <string name="insert_array">Unesi niz</string>
+    <string name="sort">Sortiraj</string>
+    <string name="swich">Zameni</string>
+    <string name="hyperlink">Otvori <a href="https://www.google.com">Potrazi pomoc portal</a></string>
+</resources>

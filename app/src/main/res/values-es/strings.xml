@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Array</string>
+    <string name="selected_language">Serbian</string>
+    <string name="languages">Idiomas</string>
+    <string name="change_title">Cambio título</string>
+    <string name="enable_dark_mode">Habilitar oscuro modo</string>
+    <string name="apply_settings">Solicitar ajustes</string>
+    <string name="english">Inglés</string>
+    <string name="serbian">Serbio</string>
+    <string name="spanish">Español</string>
+    <string name="sort"></string>
+    <string name="swich"></string>
+    <string name="insert_array">Introduce una cadena</string>
+    <string name="hyperlink">Abrir <a href="https://www.google.com">Obtener portal de ayuda</a></string>
+</resources>

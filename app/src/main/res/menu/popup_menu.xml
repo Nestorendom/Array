@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/quick"
+        android:title="Quick" />
+
+    <item
+        android:id="@+id/merge"
+        android:title="Merge" />
+
+    <item
+        android:id="@+id/bubble"
+        android:title="Bubble" />
+
+    <item
+        android:id="@+id/insertion"
+        android:title="Insertion " />
+</menu>
